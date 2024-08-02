@@ -1,0 +1,1 @@
+fill 100 0 -32 164 64 32 minecraft:air replace minecraft:structure_void

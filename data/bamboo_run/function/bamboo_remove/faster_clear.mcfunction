@@ -1,0 +1,1 @@
+execute as @e[tag=flag] run function bamboo_run:bamboo_remove/clear_bamboo
