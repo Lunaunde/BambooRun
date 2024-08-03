@@ -1,4 +1,4 @@
-execute if score #gamemode number matches 0 run scoreboard players set #gametime number 1
+execute if score #gamemode number matches 0 run scoreboard players set #gametime number 10
 scoreboard players set @a deathCount 0
 function bamboo_run:process/clear_structure_void
 kill @e[type=item]
